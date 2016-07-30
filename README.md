@@ -1,2 +1,2 @@
 # hello-world
-Hi World, how's it going?
+Basic headers to be used in newer projects.
